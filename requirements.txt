@@ -1,5 +1,4 @@
 Python 3.11
-llama-parse
 FlagEmbedding
 langchain-text-splitters
 transformers
