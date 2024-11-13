@@ -9,3 +9,4 @@
 若以上兩個檔案不存在則會用pdfplumber來處理。  
 程式會下載並使用此模型:  
 https://huggingface.co/BAAI/bge-reranker-v2-gemma  
+執行GPU為一張RTX3090
