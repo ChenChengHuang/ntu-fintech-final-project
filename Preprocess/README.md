@@ -1,4 +1,3 @@
-# README
 ## 執行方式
 ```
 python preprocess.py Llamaparse_api_key\
